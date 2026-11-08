@@ -17,3 +17,7 @@ url = "https://github.com/gavinkflam"
         identifier = "about"
         name = "About"
         url = "/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
