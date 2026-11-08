@@ -1,0 +1,19 @@
+baseURL = 'https://gavinlam.io/'
+locale = 'en-us'
+title = 'Gavin Lam'
+theme = 'archie'
+copyright = "© Gavin Lam"
+
+[params]
+	mode="auto"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gavinkflam"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/"
