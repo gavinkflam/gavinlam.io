@@ -3,6 +3,7 @@ locale = 'en-us'
 title = 'Gavin Lam'
 theme = 'archie'
 copyright = "© Gavin Lam"
+enableRobotsTXT = true
 
 [params]
 	mode="auto"
