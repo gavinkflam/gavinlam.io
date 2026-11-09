@@ -6,7 +6,7 @@ copyright = "© Gavin Lam"
 enableRobotsTXT = true
 
 [params]
-	mode="auto"
+	mode="toggle"
 
 [[params.social]]
 name = "GitHub"
