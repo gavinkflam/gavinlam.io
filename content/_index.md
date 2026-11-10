@@ -1,5 +1,5 @@
 +++
-title = 'Home'
+title = 'About Me'
 +++
 
 Hi there! I am a software engineer based in New York.

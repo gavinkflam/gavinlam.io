@@ -6,7 +6,11 @@ copyright = "© Gavin Lam"
 enableRobotsTXT = true
 
 [params]
-	mode="toggle"
+	mode = "toggle"
+    description = """\
+    Hi there! I am Gavin Lam, a software engineer based in New York. \
+    In my free time, I enjoy contributing to open-source projects such as Kubernetes, Go, Podman, CRI-O and Prometheus.\
+    """
 
 [menu]
     [[menu.main]]
