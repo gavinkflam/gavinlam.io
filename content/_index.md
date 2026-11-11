@@ -4,7 +4,7 @@ title = 'About Me'
 
 Hi there! I am a software engineer based in New York.
 
-# OSS Contributions
+# OSS contributions
 
 In my free time, I enjoy contributing to open-source projects. Some of my notable contributions include:
 
