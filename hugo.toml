@@ -1,7 +1,7 @@
 baseURL = 'https://gavinlam.io/'
 locale = 'en-us'
 title = 'Gavin Lam'
-theme = 'archie'
+theme = 'lightsail'
 copyright = "© Gavin Lam"
 enableRobotsTXT = true
 
