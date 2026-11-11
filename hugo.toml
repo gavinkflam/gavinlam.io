@@ -12,16 +12,6 @@ enableRobotsTXT = true
     In my free time, I enjoy contributing to open-source projects such as Kubernetes, Go, Podman, CRI-O and Prometheus.\
     """
 
-[menu]
-    [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/"
-    [[menu.main]]
-        identifier = "github"
-        name = "GitHub"
-        url = "https://github.com/gavinkflam"
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

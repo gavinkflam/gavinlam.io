@@ -45,6 +45,11 @@ In my free time, I enjoy contributing to open-source projects. Some of my notabl
 * containerd/cgroups: Added a HugeTLB allocation failure metric. [16]
 * Uberdeps: Added multi release JAR building capability to the Clojure Uberjar builder. [17]
 
+# Where to find me
+
+* GitHub: https://github.com/gavinkflam
+* LinkedIn: https://linkedin.com/in/gavlam
+
 [1]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
 [2]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
 [3]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
