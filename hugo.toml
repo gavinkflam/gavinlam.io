@@ -8,8 +8,8 @@ enableRobotsTXT = true
 [params]
 	mode = "toggle"
     description = """\
-    Hi there! I am Gavin Lam, a software engineer based in New York. \
-    I contribute to open-source projects such as Kubernetes, Go, Podman, CRI-O and Prometheus.\
+    Hi there! I am Gavin Lam. \
+    Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
     """
 
 [caches]
