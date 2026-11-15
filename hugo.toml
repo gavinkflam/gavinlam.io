@@ -4,6 +4,8 @@ title = 'Gavin Lam'
 theme = 'lightsail'
 copyright = "© Gavin Lam"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "terms"]
+ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
 	mode = "toggle"
