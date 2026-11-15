@@ -51,25 +51,6 @@ Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 [xfrm-pr]: https://github.com/prometheus/node_exporter/pull/2866
 [azure-sd-pr]: https://github.com/prometheus/prometheus/pull/13241
 
-# Professional Experience
-
-## [UBS][ubs] Investment Bank, [Credit Suisse][credit-suisse] (2019 - Now)
-
-* Led the development of a global retrocession fees booking automation system,
-  processing $10B+ notional annually.
-* Led the containerization and modernization of 12 services.
-  Reduced infrastructure cost by over 60% and improved UI loading speed by 5x.
-* Built a distributed caching service with NGINX, Lua and Redis.
-  Replaced an aged caching service and improved average response time by 30%.
-
-[ubs]: https://en.wikipedia.org/wiki/UBS
-[credit-suisse]: https://en.wikipedia.org/wiki/Credit_Suisse
-
-## Appcara (2016 - 2019)
-
-* Developed systems to automate Azure resource management and analyze cloud costs.
-* Built a SDK supporting multiple platforms with Go, halving client onboarding time.
-
 # Reach Out to Me
 
 * [GitHub](https://github.com/gavinkflam)
