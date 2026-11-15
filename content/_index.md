@@ -24,8 +24,8 @@ Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 
 ## Podman and Container Runtimes
 
-* A `--hosts-file` [flag][hosts-file-flag-pr] in Podman to customize `/etc/hosts` file of pods and containers.
-* A `seccomp_profile` [setting][seccomp-profile-pr] in CRI-O for overriding the seccomp profile per runtime.
+* A [`--hosts-file` flag][hosts-file-flag-pr] in Podman to customize `/etc/hosts` file of pods and containers.
+* A [`seccomp_profile` setting][seccomp-profile-pr] in CRI-O for overriding the seccomp profile per runtime.
 * Added several metrics in [CRI-O][cri-o-prs] and [containerd][containerd-prs].
 
 [hosts-file-flag-pr]: https://github.com/podman-container-tools/podman/pull/21062
@@ -35,7 +35,7 @@ Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 
 ## Go
 
-* [Sped up][cheaprand-cl] `cheaprand64` by 1.74x and `cheaprand` by 1.11x, in turn accelerating internal mechanics
+* [Sped up][cheaprand-cl] `cheaprand64` by 1.74x and `cheaprand` by 1.11x, accelerating runtime internals
   such as `select` and timers.
 * [Enhanced][inliner-cl] refactor inliner to preserve package aliases, improving user experience.
 
@@ -44,8 +44,8 @@ Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 
 ## Prometheus
 
-* Node exporter: Added [watchdog module][watchdog-pr] (enabled by default) and [XFRM module][xfrm-pr].
-* Prometheus: An [enhancement][azure-sd-pr] to resolve public IP addresses of Azure virtual machines.
+* Added [watchdog module][watchdog-pr] (enabled by default) and [XFRM module][xfrm-pr] to Node exporter.
+* An [enhancement][azure-sd-pr] to resolve public IP addresses of Azure virtual machines.
 
 [watchdog-pr]: https://github.com/prometheus/node_exporter/pull/2880
 [xfrm-pr]: https://github.com/prometheus/node_exporter/pull/2866
