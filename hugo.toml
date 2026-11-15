@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
 	mode = "toggle"
     description = """\
-    Hi there! I am Gavin Lam. \
+    Gavin Lam. Software engineer. \
     Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
     """
 

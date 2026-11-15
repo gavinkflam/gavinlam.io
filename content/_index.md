@@ -1,7 +1,7 @@
 +++
 title = 'About Me'
 summary = """\
-Hi there! I am Gavin Lam. \
+Gavin Lam. Software engineer. \
 Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 """
 +++
@@ -50,6 +50,10 @@ Active contributor to Kubernetes (KEP-5936), Podman, CRI-O, Go, and Prometheus.
 [watchdog-pr]: https://github.com/prometheus/node_exporter/pull/2880
 [xfrm-pr]: https://github.com/prometheus/node_exporter/pull/2866
 [azure-sd-pr]: https://github.com/prometheus/prometheus/pull/13241
+
+# Location
+
+New York, United States
 
 # Reach Out to Me
 
